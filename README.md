@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lildevlo
 - 👀 J'adore le dev
 - 🌱 J'apprends le Java, le python, le html/css/mysql...
-- 💞️ Solo :'(
+- 💞️ Taken ❤️
 - 📫 email@liltray.online / contact@tropixeel.xyz / traymic2.0@gmail.com
 
 <!---
